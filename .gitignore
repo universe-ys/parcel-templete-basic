@@ -1,0 +1,5 @@
+.cache
+# Mac 일 경우
+.DS_Store 
+node_modules
+dist
